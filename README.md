@@ -1,9 +1,5 @@
 # Trabalho-Gerenciamento
-[CodeQL](https://github.com/WindowsSystemAdmin/rese
-arch/actions/workflows/codeql.yml/badge.svg
-?branch=main&event=push)]
-(https://github.com/WindowsSystemAdmin/rese
-arch/actions/workflows/codeql.yml) 
+![CodeQL](https://github.com/Nike-Inc/gimme-a-cli/workflows/CodeQL/badge.svg)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 https://www.beecrowd.com.br/judge/en/problems/view/1154
