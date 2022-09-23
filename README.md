@@ -3,8 +3,7 @@
 [![Java CI with Maven](https://github.com/GabrielBalke/Trabalho-Gerenciamento/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/GabrielBalke/Trabalho-Gerenciamento/actions/workflows/maven.yml)
 [![CodeQL](https://github.com/GabrielBalke/Trabalho-Gerenciamento/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/GabrielBalke/Trabalho-Gerenciamento/actions/workflows/codeql.yml)
 
-<h1 beecrowd | 1154 - Ages </h1>
-
+<h1> beecrowd | 1154 - Ages </h1>
 ![image](https://user-images.githubusercontent.com/111667015/191653234-b095f0c8-cb0a-48a2-b970-8cc2b308510b.png)
 https://www.beecrowd.com.br/judge/en/problems/view/1154
 
